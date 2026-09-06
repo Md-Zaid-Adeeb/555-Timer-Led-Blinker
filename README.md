@@ -56,3 +56,8 @@ This project follows the complete PCB design workflow:
 8. **Gerber & Drill File Generation** — Manufacturing-ready output files
 
 ## 📁 Repository Structure
+├── 555_LED_BLINKER.kicad_pro # KiCad project file
+├── 555_LED_BLINKER.kicad_sch # Schematic
+├── 555_LED_BLINKER.kicad_pcb # PCB layout
+├── gerbers/ # Manufacturing files (Gerber + drill files)
+└── README.md
